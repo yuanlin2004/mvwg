@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "San Diego Regional Recap (Feb 20–21, 2026)"
-date: 2026-03-05 12:55:00 -0800
+date: 2026-02-21 20:00:00 -0800
 categories: recap
 ---
 
