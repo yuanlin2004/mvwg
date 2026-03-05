@@ -5,8 +5,6 @@ date: 2026-03-05 12:55:00 -0800
 categories: recap
 ---
 
-![San Diego Trip Photo 1](/mvwg/assets/images/2026-02-20-san-diego-1.jpg)
-
 ![San Diego Trip Photo 2](/mvwg/assets/images/2026-02-20-san-diego-2.jpg)
 
 ![San Diego Trip Photo 3](/mvwg/assets/images/2026-02-20-san-diego-3.jpg)
