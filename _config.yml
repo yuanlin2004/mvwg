@@ -1,0 +1,8 @@
+title: MVWG Event Recaps
+description: Monta Vista-Lynbrook Winter Guard event recap blog
+url: https://yuanlin2004.github.io
+baseurl: /mvwg
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
