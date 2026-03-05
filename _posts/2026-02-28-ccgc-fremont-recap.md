@@ -5,7 +5,7 @@ date: 2026-03-05 12:00:00 -0800
 categories: recap
 ---
 
-![MVWG Team Photo](https://drive.google.com/file/d/1uBzJ16iD9X8rX_ThSjckXlLLPSjNb7Ao/view?usp=drive_link)
+![MVWG Team Photo](/mvwg/assets/images/2026-02-28-team-photo.jpg)
 
 What a special night for our Monta Vista-Lynbrook Winter Guard family.
 
